@@ -1,1 +1,0 @@
-this is test.txt for test git remove operation
